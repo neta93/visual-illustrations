@@ -1,0 +1,15 @@
+name: dtm-vs-fm
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - pytorch         
+  - numpy
+  - matplotlib
+  - imageio
+  - ffmpeg             
+  - tqdm
+  - jupyter
+  - ipykernel
